@@ -20,3 +20,11 @@ A simple console-based Banking System built with Dart. The application allows us
 2. Run the program:
 Banking_System_Main.dart
 
+## Author
+
+Farzana Akter 
+
+Department of Computer Science & Engineering 
+
+Southeast University
+
